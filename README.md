@@ -1,16 +1,14 @@
+![19b28c8372aaec65623f7ee7332e74be](https://github.com/user-attachments/assets/c92fdb04-a00b-4534-a139-c6f7206d681a)
+
+
+
+
+
 ## Hi there 👋
+## I am Henrique Augusto da Silva Siqueira
 
-<!--
-**hrslv-dev/hrslv-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning software engineering
+- 👯 I’m looking to collaborate on any projects to gain more experience
+- 🤔 I’m looking for help with java
+- 💬 Ask me about code
+- 📫 How to reach me: henriqueaugustoss17@gmail.com
