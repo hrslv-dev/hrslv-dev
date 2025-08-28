@@ -6,9 +6,8 @@
 
 ## Hi there 👋
 ## I am Henrique Augusto da Silva Siqueira
+## Developer Back-End Java | studying about Linux
 
-- 🌱 I’m currently learning software engineering
-- 👯 I’m looking to collaborate on any projects to gain more experience
-- 🤔 I’m looking for help with java
-- 💬 Ask me about code
+- 🌱 I’m currently learning about Databases, more specifically SQL language, and linux to know more about systems and servers.
+- 👯 I’m looking to study more about technology in general, more knowledge is more power
 - 📫 How to reach me: henriqueaugustoss17@gmail.com
