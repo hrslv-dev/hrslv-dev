@@ -1,62 +1,59 @@
 
 
-![215911](https://github.com/user-attachments/assets/d5923ff2-d663-46b4-b1ab-e18b6a66937d)
+<!-- GitHub Profile README - Henrique Siqueira -->
 
-
-<!-- README de perfil - Henrique Siqueira -->
-
-<h1 align="center">Hey, eu sou o Henrique 👨‍💻</h1>
+<h1 align="center">Hey, I'm Henrique 👨‍💻</h1>
 
 <p align="center">
-Estudante de Engenharia de Software | Java & Linux Enthusiast | Explorando o mundo da tecnologia com curiosidade e propósito 🌱
+Software Engineering Student | Java & Linux Enthusiast | Exploring the tech world with curiosity and purpose 🌱
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About Me
 
-Atualmente curso **Engenharia de Software** na Universidade UNA e estou focado em construir uma base sólida com tecnologias que considero essenciais para o mercado e para minha evolução pessoal.
+I'm currently studying **Software Engineering** at Universidade UNA, focusing on building a solid foundation with technologies I believe are essential for both the market and my personal growth.
 
-💡 Gosto de resolver problemas, entender o "porquê das coisas" e construir soluções simples para desafios complexos.
+💡 I enjoy solving problems, understanding the "why" behind things, and building simple solutions for complex challenges.
 
-**Minhas ferramentas de estudo no momento:**
-- 💻 Java (orientação a objetos, back-end)
-- 🐧 Linux (sistemas, comandos, terminal)
-- 🐍 Python (scripts e automações)
-- 🗄️ MySQL (modelagem e consultas de dados)
-
----
-
-### 🌍 Em construção...
-
-Ainda não tenho projetos públicos, mas estou:
-- Documentando tudo o que aprendo 💬
-- Praticando com desafios reais e labs 🔬
-- Me preparando para contribuir com a comunidade 🚧
-
-Se você gosta de acompanhar **desenvolvedores em fase de crescimento**, com paixão por aprender e disciplina para evoluir — me siga. Esse perfil vai contar uma boa história com o tempo. 😉
+**Tools I'm currently learning and using:**
+- 💻 Java (object-oriented programming, back-end)
+- 🐧 Linux (systems, commands, terminal)
+- 🐍 Python (scripts and automation)
+- 🗄️ MySQL (data modeling and queries)
 
 ---
 
-### 💼 Conecte-se comigo
+### 🌍 Under Construction...
+
+I don’t have public projects yet, but I’m:
+- Documenting everything I learn 💬
+- Practicing with real challenges and labs 🔬
+- Getting ready to contribute to the dev community 🚧
+
+If you enjoy following **developers in progress**, who learn with passion and grow with discipline — follow me. This profile is going to tell a good story over time. 😉
+
+---
+
+### 💼 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-augusto-siqueira/)
 
 ---
 
-### ✨ Curiosidades rápidas
+### ✨ Quick Facts
 
-- 🎯 Meu foco atual é dominar **Java + Linux + Banco de Dados**
-- 🧠 Acredito que **curiosidade é o combustível da inovação**
-- 🎮 Nas horas vagas? Gosto de explorar tecnologia, cultura geek e música
+- 🎯 My current focus: mastering **Java + Linux + Databases**
+- 🧠 I believe **curiosity is the fuel of innovation**
+- 🎮 In my free time: I explore tech, geek culture, and music
 
 ---
 
-### 📌 Citação que me inspira
+### 📌 A Quote That Inspires Me
 
-> *"A melhor maneira de prever o futuro é criá-lo."*  
+> *"The best way to predict the future is to invent it."*  
 > — Alan Kay
 
 ---
 
-<p align="center">⚡ Em breve, mais projetos. Enquanto isso, obrigado por visitar meu perfil!</p>
+<p align="center">⚡ More projects coming soon. In the meantime, thanks for stopping by!</p>
