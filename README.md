@@ -1,6 +1,6 @@
 
-![animate-background-technology](https://github.com/user-attachments/assets/cd9d059f-6fd9-4188-9ceb-d1cedf4e2545)
 
+![215911](https://github.com/user-attachments/assets/d5923ff2-d663-46b4-b1ab-e18b6a66937d)
 
 
 <!-- README de perfil - Henrique Siqueira -->
