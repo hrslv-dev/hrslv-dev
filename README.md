@@ -1,5 +1,5 @@
-![19b28c8372aaec65623f7ee7332e74be](https://github.com/user-attachments/assets/c92fdb04-a00b-4534-a139-c6f7206d681a)
 
+![animate-background-technology](https://github.com/user-attachments/assets/cd9d059f-6fd9-4188-9ceb-d1cedf4e2545)
 
 
 
