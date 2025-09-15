@@ -3,11 +3,60 @@
 
 
 
+<!-- README de perfil - Henrique Siqueira -->
 
-## Hi there 👋
-## I am Henrique Augusto da Silva Siqueira
-## Developer Back-End Java | studying about Linux
+<h1 align="center">Hey, eu sou o Henrique 👨‍💻</h1>
 
-- 🌱 I’m currently learning about Databases, more specifically SQL language, and linux to know more about systems and servers.
-- 👯 I’m looking to study more about technology in general, more knowledge is more power
-- 📫 How to reach me: henriqueaugustoss17@gmail.com
+<p align="center">
+Estudante de Engenharia de Software | Java & Linux Enthusiast | Explorando o mundo da tecnologia com curiosidade e propósito 🌱
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+Atualmente curso **Engenharia de Software** na Universidade UNA e estou focado em construir uma base sólida com tecnologias que considero essenciais para o mercado e para minha evolução pessoal.
+
+💡 Gosto de resolver problemas, entender o "porquê das coisas" e construir soluções simples para desafios complexos.
+
+**Minhas ferramentas de estudo no momento:**
+- 💻 Java (orientação a objetos, back-end)
+- 🐧 Linux (sistemas, comandos, terminal)
+- 🐍 Python (scripts e automações)
+- 🗄️ MySQL (modelagem e consultas de dados)
+
+---
+
+### 🌍 Em construção...
+
+Ainda não tenho projetos públicos, mas estou:
+- Documentando tudo o que aprendo 💬
+- Praticando com desafios reais e labs 🔬
+- Me preparando para contribuir com a comunidade 🚧
+
+Se você gosta de acompanhar **desenvolvedores em fase de crescimento**, com paixão por aprender e disciplina para evoluir — me siga. Esse perfil vai contar uma boa história com o tempo. 😉
+
+---
+
+### 💼 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-augusto-siqueira/)
+
+---
+
+### ✨ Curiosidades rápidas
+
+- 🎯 Meu foco atual é dominar **Java + Linux + Banco de Dados**
+- 🧠 Acredito que **curiosidade é o combustível da inovação**
+- 🎮 Nas horas vagas? Gosto de explorar tecnologia, cultura geek e música
+
+---
+
+### 📌 Citação que me inspira
+
+> *"A melhor maneira de prever o futuro é criá-lo."*  
+> — Alan Kay
+
+---
+
+<p align="center">⚡ Em breve, mais projetos. Enquanto isso, obrigado por visitar meu perfil!</p>
