@@ -2,7 +2,7 @@
 
 <!-- GitHub Profile README - Henrique Siqueira -->
 
-<h1 align="center">Hey, I'm Henrique 👨‍💻</h1>
+<h1 align="center">Welcome 👨‍💻</h1>
 
 <p align="center">
 Software Engineering Student | Java & Linux Enthusiast | Exploring the tech world with curiosity and purpose 🌱
