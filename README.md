@@ -16,6 +16,8 @@ Hi, I'm, Henrique.
 **Learning now:**
 *   Back-End programming (Java, MySQL..)
 *   Linux (systems, commands, terminal)
+*   IA (Agents, models, algoritms)
+
 ---
 ### ☄️ Always better
 
